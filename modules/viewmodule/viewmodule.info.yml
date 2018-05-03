@@ -1,0 +1,5 @@
+name: Custom View Module
+description: Creates a module for showing "Role Based Module".
+package: Custom
+type: module
+core: 8.x
